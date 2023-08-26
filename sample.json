@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Sports Desk",
+      "title": "ICC World Cup 2023 ticket sale: BCCI's huge announcement for prior booking - Hindustan Times",
+      "description": "BCCI on Wednesday, announced that a selected few will be able to book ICC World Cup 2023 tickets from August 24 itself. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/icc-world-cup-2023-ticket-sale-bccis-huge-announcement-selected-few-can-make-prior-booking-101692868644328.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/24/1600x900/Screenshot_2023-08-09_182148_1691585526069_1692868908055.png",
+      "publishedAt": "2023-08-24T09:23:58Z",
+      "content": "The World Cup fever is slowly but surely gripping India. This is the first time India will be hosting the ODI World Cup solo. In 1987, 1996 and 2011 they were joint hosts with others like Pakistan, S… [+3413 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "\"Superpower In Space\": How India's Moon Landing Made Headlines Across Globe - NDTV",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com/news",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2023-08-24T07:00:52Z",
+      "content": null
+    }
+  ]
+}
